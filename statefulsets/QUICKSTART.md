@@ -18,7 +18,7 @@ kubectl get pods -l app=web
 kubectl get pvc
 ```
 
-详细说明请参阅 [statefulsets/README.md](statefulsets/README.md)
+详细说明请参阅 [README.md](README.md)
 
 ---
 
@@ -40,4 +40,4 @@ kubectl get pods -l app=web
 kubectl get pvc
 ```
 
-For detailed instructions, see [statefulsets/README-EN.md](statefulsets/README-EN.md)
+For detailed instructions, see [README-EN.md](README-EN.md)
